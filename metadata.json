@@ -1,0 +1,8 @@
+{
+  "name": "Delphi 12.1 & SQL Server Enterprise Architect",
+  "description": "منصة وهندسة تطوير برمجيات Delphi 12.1 و SQL Server المتكاملة لتصميم وتوليد أنظمة المؤسسات، الأكواد، قواعد البيانات، والتقارير والتوزيع التجاري",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
